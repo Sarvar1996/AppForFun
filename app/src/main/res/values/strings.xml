@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="add_product">New Product</string>
+    <string name="drinks">Beverage</string>
+    <string name="more">More</string>
+</resources>
